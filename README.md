@@ -1,2 +1,2 @@
-# dio-desafio-github-prepositorio
-Desafio de projeto sobre Git/Github
+#Desafio de projeto da DIO sobre Git/GitHub 💻 :octocat:
+Repositório criado para o desafio de projeto.
